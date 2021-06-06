@@ -6,7 +6,7 @@
 
 - [رزومه](https://zeynabizadi.github.io/zeynab.izadi/)
 
-- [sop](https://zeynabizadi.github.io/sop/)
+- [sop](https://zeynabizadi.github.io/SOP/)
 
 - [JavaScript certificate](https://github.com/zeynabizadi/PNU_3992_AR/blob/main/js.png)
 - [patchwork](https://github.com/zeynabizadi/PNU_3992_AR/blob/main/jlord.png)
