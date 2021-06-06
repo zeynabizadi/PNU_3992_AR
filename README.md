@@ -12,3 +12,5 @@
 - [patchwork](https://github.com/zeynabizadi/PNU_3992_AR/blob/main/jlord.png)
 - [HTML](https://github.com/zeynabizadi/PNU_3992_AR/blob/main/Html.jpg )
 - [CSS](https://github.com/zeynabizadi/PNU_3992_AR/blob/main/Css.jpg)
+### ارزیابی
+ -ارزیابی رزومه و انگیزه نامه
