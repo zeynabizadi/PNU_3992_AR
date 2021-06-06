@@ -9,4 +9,4 @@
 - [sop](https://zeynabizadi.github.io/sop/)
 
 - [JavaScript certificate](https://github.com/zeynabizadi/PNU_3992_AR/blob/main/js%20.png)
-- [patchwork](https://github.com/zahraahmadiii/PNU_3992_AR/blob/main/jlord.png)
+- [patchwork](https://github.com/zeynabizadi/PNU_3992_AR/blob/main/jlord.png)
