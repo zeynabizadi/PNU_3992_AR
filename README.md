@@ -1,6 +1,6 @@
 # PNU_3992_AR
 
-#                                                                                                                                          زینب ایزدی دخرآبادی 
+# زینب ایزدی دخرآبادی 
 -  [PNU_3992_AR](https://github.com/zeynabizadi/PNU_3992_AR/blob/main/README.md)
 - [حساب گیت هاب](https://github.com/zeynabizadi)
 
