@@ -22,5 +22,8 @@
 
 ---
 
+
 # دروس کارشناسی
-- [فرم های کارآموزی](https://github.com/zeynabizadi/PNU_3992_AR/blob/main/report.pdf)
+# کارآموزی 
+-  [فرم های کارآموزی](https://github.com/zeynabizadi/PNU_3992_AR/blob/main/report.pdf)
+- 
