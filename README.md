@@ -17,9 +17,10 @@
  ---
 #  ارزیابی
  -  [ارزیابی رزومه و انگیزه نامه](https://zeynabizadi.github.com)
+ -  [خلاصه ارزیابی بخش عمومی](https://zeynabizadi.github.com)
 
 
 ---
 
 # دروس کارشناسی
-- [کارآموزی]
+- [کارآموزی](https://zeynabizadi.github.com)
