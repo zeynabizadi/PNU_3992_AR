@@ -17,7 +17,7 @@
  ---
 #  ارزیابی
  -  [ارزیابی رزومه و انگیزه نامه](https://github.com/zeynabizadi/PNU_3992_AR/blob/main/XX_CV_CheckList_AR_3992.pdf)
- -  
+ -  [خلاصه ارزیابی بخش عمومی](https://github.com/zeynabizadi/PNU_3992_AR/blob/main/XX_CV_CheckList_AR_3992.pdf)
 
 
 ---
