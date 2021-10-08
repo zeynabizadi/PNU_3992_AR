@@ -23,4 +23,4 @@
 ---
 
 # دروس کارشناسی
-- [کارآموزی](https://zeynabizadi.github.com)
+- [کارآموزی](https://github.com/zeynabizadi/PNU_3992_AR/blob/main/report.pdf)
