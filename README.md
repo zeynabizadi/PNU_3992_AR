@@ -16,8 +16,8 @@
  
  ---
 #  ارزیابی
- -  [ارزیابی رزومه و انگیزه نامه](https://zeynabizadi.github.com)
- -  [خلاصه ارزیابی بخش عمومی](https://zeynabizadi.github.com)
+ -  [ارزیابی رزومه و انگیزه نامه](https://github.com/zeynabizadi/PNU_AR/blob/main/ارزیابی رزومه و انگیزه نامه.pdf)
+ -  [خلاصه ارزیابی بخش عمومی](https://)ارزیابی رزومه و انگیزه نامه.pdf
 
 
 ---
