@@ -27,4 +27,4 @@
 کارآموزی 
 -  [فرم های کارآموزی](https://github.com/zeynabizadi/PNU_3992_AR/blob/main/report.pdf)
 -  [چک لیست گزارش کارآموزی](https://github.com/zeynabizadi/PNU_3992_AR/blob/main/checklist-ar3992.pdf)
--  [گزارش کارآموزی](https://github.com/zeynabizadi/PNU_3992_AR/blob/main/internship_report_AR_3992.pdf)
+-  [گزارش کارآموزی](https://github.com/zeynabizadi/PNU_3992_AR/blob/main/internshipreportAR3992.pdf)
